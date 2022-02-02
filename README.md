@@ -12,30 +12,38 @@ Videos and images are available below for demonstration purposes.
 
 ### Menu
 
-#### Video Usage
+#### Usage Video
 https://user-images.githubusercontent.com/46543419/151874335-5390aa25-4d9b-47a7-a5fc-720d58ecbd9c.mp4
 
-#### Images
-![menu name prompt](docs/menu-nameprompt-image.png)
-![menu](docs/menu-image.png)
+<details>
+  <summary><b>Screenshots</b></summary>
+  <img src="docs/menu-nameprompt-image.png" alt="menu name prompt">
+  <img src="docs/menu-image.png" alt="menu">
+</details>
 
+***
 ### Snake
 
-#### Video Gameplay
+#### Gameplay Video
 https://user-images.githubusercontent.com/46543419/151874488-c78c2690-3e4f-44bd-ae1f-d44dffc5c5f0.mp4
 
-#### Images
-![snake instructions](docs/snake-instruction-image.png)
-![snake](docs/snake-image.png)
+<details>
+  <summary><b>Screenshots</b></summary>
+  <img src="docs/snake-instruction-image.png" alt="snake instructions">
+  <img src="docs/snake-image.png" alt="snake">
+</details>
 
+***
 ### TicTacToe
 
-#### Video Gameplay
+#### Gameplay Video
 https://user-images.githubusercontent.com/46543419/151874717-9d389d47-4928-4c0d-870a-8b3cb5b0d7ed.mp4
 
-#### Images
-![tictactoe instructions](docs/tictactoe-instruction-image.png)
-![tictactoe](docs/tictactoe-image.png)
+<details>
+  <summary><b>Screenshots</b></summary>
+  <img src="docs/tictactoe-instruction-image.png" alt="tictactoe instructions">
+  <img src="docs/tictactoe-image.png" alt="tictactoe">
+</details>
 
 ## Usage
 
